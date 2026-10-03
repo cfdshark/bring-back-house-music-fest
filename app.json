@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Bring Back House Music Fest",
+    "slug": "bring-back-house-music-fest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "favicon": "https://lh3.googleusercontent.com/aida/AEtjO1XHdfCVLcyO5m2QXRAAFGPtS5BphR6djXcD0_M6qT-XFQ_Fm_E4VO26cLb31XnXG2h0QI1AjqvxbPJvfdiYYCkZOoYuVoSCweWCpplVD3Q_YOFi57zMiWeSXHl8KoMGdufToPpNWoFhI_6O1aA7ho2pFWMOciqwtse4e8qbqPGiJGZZ3TrkDbi7YP42Uu8L9Wl1Tfls_6JDJdCiy2LHpr1IEXe2XqZaW3OQWwE1L_AP0iaXt8-34ZR7nWg"
+    }
+  }
+}
